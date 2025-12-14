@@ -1,4 +1,4 @@
-# World-Atlas a react country app
+# World-Atlas
 
 🔗 **Live Demo:**[https://world-atlas-blond.vercel.app]
 
